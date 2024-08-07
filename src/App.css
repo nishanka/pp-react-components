@@ -6,6 +6,8 @@
   font-weight: 400;
   font-style: normal;
   color: var(--text-clr);
+
+  --content-max-width: 1000px;
 }
 
 .bg--gradient {
@@ -28,3 +30,9 @@
 .section-m {
   margin: 4rem 6rem;
 } */
+
+header,
+.accordion {
+  max-width: var(--content-max-width);
+  margin: 0 auto;
+}

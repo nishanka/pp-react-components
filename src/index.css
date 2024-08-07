@@ -3,9 +3,10 @@
   text-align: center;
   --common-padding-x: 40px;
   --common-padding-y: 20px;
+  --common-gap: 20px;
   
-  --link-clr: #e34234;
-  --bg-clr: #e34234;
+  --link-clr: #0a6cd4;
+  --bg-clr: #040c18;
   --link-hover-clr: #ffffff;
   --text-clr: #ffffff;
   --transition-all: all 0.3s ease-in-out;
